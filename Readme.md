@@ -16,7 +16,7 @@
 
 **Описание:** В этой лабораторной работе решается задача классификации на данных CIFAR-10.  Используется ClearML для логгирования экспериментов с различными оптимизациями модели.
 
-**Подробнее:** [lab2/README.md](https://github.com/shtykinao/MLOps/tree/main/lab2)
+**Подробнее:** [lab2](https://github.com/shtykinao/MLOps/tree/main/lab2)
 
 
 
@@ -28,7 +28,7 @@
 
 **Описание:**  В этой работе лучшая модель из Лабораторной работы № 2 конвертируется в ONNX и разворачивается с помощью BentoML.
 
-**Подробнее:** [lab3/README.md](https://github.com/shtykinao/MLOps/tree/main/lab3) 
+**Подробнее:** [lab3](https://github.com/shtykinao/MLOps/tree/main/lab3) 
 
 
 ## Лабораторная работа № 4
